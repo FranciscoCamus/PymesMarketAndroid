@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable-v24/background_red.xml" value="0.121" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable-v24/ic_close.xml" value="0.121" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable-v24/ic_documento.xml" value="0.121" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable-v24/ic_person_direccion.xml" value="0.121" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable-v24/ic_save.xml" value="0.121" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable-v24/ic_tipo_doc.xml" value="0.121" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable-v24/ic_ubicacion.xml" value="0.121" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable/background_blue.xml" value="0.12" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable/bg_overlay.xml" value="0.121" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable/ic_check.xml" value="0.121" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable/ic_lock.xml" value="0.12" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable/ic_login.xml" value="0.12" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable/ic_ogin.xml" value="0.12" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/drawable/side_nav_bar.xml" value="0.121" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_inicio.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/activity_registrar_usuario.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/app_bar_inicio.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/content_inicio.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/custom_toast_error.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/custom_toast_ok.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/dropdown_item.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/fragment_configuracion.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/fragment_inicio.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/fragment_mis_compras.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/image_slider_layout_item.xml" value="0.131640625" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/layout/nav_header_inicio.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.22" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/menu/inicio.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/Lenovo/AndroidStudioProjects/ECommerceApp/app/src/main/res/xml/network_security_config.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
